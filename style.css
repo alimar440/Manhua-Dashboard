@@ -1,0 +1,35 @@
+:root {
+    font-family: "Inter", sans-serif;
+  
+    --color-text: #160811;
+    --color-background: #fff8f8;
+    --color-primary: #874b6d;
+    --color-secondary: #715764;
+    --color-accent: #80543c;
+  
+    --pad-top: 1.5rem;
+  
+    --shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    --shadow-md: 0.8px 1.6px 2px -0.8px rgba(0, 0, 0, 0.11),
+      2.1px 4.1px 5.2px -1.7px rgba(0, 0, 0, 0.11);
+  }
+
+  @supports (font-variation-settings: normal) {
+    :root {
+      font-family: "Inter var", sans-serif;
+    }
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+  }
+
+  
