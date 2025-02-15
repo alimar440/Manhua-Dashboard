@@ -542,27 +542,22 @@ hr {
         padding: 5px;
         display: none;
     }
-    .header {
+    .header{
         margin: 5px;
     }
-
     .main-content {
         padding: 5px;
         
     }
-
     .manhuas-container {
         grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     }
-
     .card-manhua {
         width: 100%;
     }
-
     .historique-list {
         width: 100%;
     }
-
     .item-image {
         width: 100%;
     }
