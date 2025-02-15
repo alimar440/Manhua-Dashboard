@@ -1,4 +1,4 @@
-# Admin-Dashboard
+# Manhua-Dashboard
 
 ## [Live Demo](https://alimar440.github.io/Manhua-Dashboard/)
 
