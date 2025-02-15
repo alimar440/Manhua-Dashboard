@@ -542,16 +542,13 @@ hr {
         padding: 5px;
         display: none;
     }
-    .container{
-        
-        overflow: scroll;
-    }
     .header {
         margin: 5px;
     }
 
     .main-content {
         padding: 5px;
+        
     }
 
     .manhuas-container {
