@@ -6,7 +6,7 @@
 
 
 
-Admin Dashboard created using CSS Grid Layout. 
+Manhua/Manga Dashboard created using CSS Grid Layout. 
 
 ### Technologies Used
 
